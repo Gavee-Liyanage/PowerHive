@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648015300968",
+    "firebase_url": "https://power-hive-94c09-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "power-hive-94c09",
+    "storage_bucket": "power-hive-94c09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648015300968:android:f8c5183f81fc5c35636edd",
+        "android_client_info": {
+          "package_name": "com.example.power_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3j7Z5dWy2qpURXPmAQPwnGooa52Rdfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
